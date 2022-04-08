@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pifagor_App</string>
+
+    <string name="tvresult">Результат: &#160;</string>
+    <string name="input_a">Введите значение \"А\"</string>
+    <string name="input_b">Введите значение \"В\"</string>
+    <string name="reslt_btn">Результат</string>
+    <string name="Title">Теорема Пифагора</string>
+
+</resources>

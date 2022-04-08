@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Теорема Пифагора</string>
+    <string name="tvresult">Результат:</string>
+    <string name="reslt_btn">Результат</string>
+    <string name="Title">Теорема Пифагора</string>
+</resources>
